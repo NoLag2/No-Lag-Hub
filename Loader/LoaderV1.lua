@@ -1,3 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/Main.lua"))()
-ID="edaa9d20-68d5-4d77-adb3-ccbc02e6e534";
-loadstring(game:HttpGet("http://5.129.216.170:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://www.nolag.wtf"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImYwNzUzZGQ2LTFkY2ItNDVlMi05NjgwLTNjOGQ5NDE5M2Y0YyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJnYWcyX21haW5fdmlzdWFsIn19"))()
